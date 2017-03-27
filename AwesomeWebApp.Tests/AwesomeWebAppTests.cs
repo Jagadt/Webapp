@@ -6,7 +6,7 @@ using System.Web.Mvc;
 namespace AwesomeWebApp.Tests
 {
     [TestClass]
-    public class AwesomeWebAppTests
+    // public class AwesomeWebAppTests
     {
         [Ignore]
         [TestMethod]
